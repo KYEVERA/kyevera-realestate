@@ -1,0 +1,34 @@
+0000000000000000000000000000000000000000 16a33ae405ec99dfe8edc1353aaf9d37e1be20ae agent <agent@replit.com> 1778027931 +0000	commit (initial): Initial commit
+16a33ae405ec99dfe8edc1353aaf9d37e1be20ae 16fc6b023d4866e830c6e701594ac3535b5e1dd8 nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1778728752 +0000	commit: Add authentication, properties, and project management to the API
+16fc6b023d4866e830c6e701594ac3535b5e1dd8 7ab2da7473125c8edbb32d459085af1abca7f7da nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1778729715 +0000	commit: Add ability to create and edit projects and manage staff users
+7ab2da7473125c8edbb32d459085af1abca7f7da e9ed18a00e4bf14362041560f73d06e321e38576 nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1778730803 +0000	commit: Add image management to property and project editing forms
+e9ed18a00e4bf14362041560f73d06e321e38576 5a4763ed999ee7872a24dec9fe4fd7289f8dd4f5 nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1778852728 +0000	commit: Saved progress at the end of the loop
+5a4763ed999ee7872a24dec9fe4fd7289f8dd4f5 be2d6c9728cfca44566ac283a4d33094d031a2ff nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1778853330 +0000	commit: Add video management capabilities to the media panel interface
+be2d6c9728cfca44566ac283a4d33094d031a2ff 6460e4ebf4d8d1d7bdb5e2f0d45f518a7f57dc1a nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1778853749 +0000	commit: Add video embeds to property and project detail pages
+6460e4ebf4d8d1d7bdb5e2f0d45f518a7f57dc1a c2cb77f5f5df99005cfd157e201065684a93820e nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1779123599 +0000	commit: Published your App
+c2cb77f5f5df99005cfd157e201065684a93820e cf9ada86377716170e75f17499d8e8f4430cdd4e nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1779307581 +0000	commit: Published your App
+cf9ada86377716170e75f17499d8e8f4430cdd4e e322fc48ac6222f7df36afac6be9f8af74449129 nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1779732900 +0000	commit: Published your App
+e322fc48ac6222f7df36afac6be9f8af74449129 cbb45444be037d322c9eba5c5b291e4c621ccfaf nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1779734282 +0000	commit: Published your App
+cbb45444be037d322c9eba5c5b291e4c621ccfaf df0a7bdff7e23ad7a1e9631378d9659e2004ec7c nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1779735278 +0000	commit: Published your App
+df0a7bdff7e23ad7a1e9631378d9659e2004ec7c e168563c3dcffe74ed47c5087d97938f4adccf76 Replit Agent <agent@replit.com> 1781362975 +0000	commit: Published your App
+e168563c3dcffe74ed47c5087d97938f4adccf76 8351088dee9771864db8df834fc8fc01fc889c66 nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1781371704 +0000	commit: Merged changes from 3toxnv3b/main
+8351088dee9771864db8df834fc8fc01fc889c66 958deba99442e6357be4f5680c3a6064b9f588d0 Replit Agent <agent@replit.com> 1781371813 +0000	commit: Published your App
+958deba99442e6357be4f5680c3a6064b9f588d0 700bf1fb9fb17128823ab20108886071720aa7b3 Replit Agent <agent@replit.com> 1781519236 +0000	commit: Add a dynamic image gallery slideshow to project detail pages
+700bf1fb9fb17128823ab20108886071720aa7b3 9fafb170a94b98dc8c554379bbeccee3b8981824 nm8120322 <59192731-nm8120322@users.noreply.replit.com> 1781519256 +0000	commit: Fix 3 dependency vulnerabilities (esbuild + qs)
+9fafb170a94b98dc8c554379bbeccee3b8981824 937217d4ed91d34b384ac884a80fcdcfdd8cc150 Replit Agent <agent@replit.com> 1781519398 +0000	commit: Published your App
+937217d4ed91d34b384ac884a80fcdcfdd8cc150 3f8806d46ccdb5a24c812a49e6d24ef0c01eb34f Replit Agent <agent@replit.com> 1781519522 +0000	commit: Integrate Facebook page across the website
+3f8806d46ccdb5a24c812a49e6d24ef0c01eb34f 8a1f4d1b441e3c776a9622baf31f8634b549de75 Replit Agent <agent@replit.com> 1781520363 +0000	commit: Update CRM interface with a modern visual redesign
+8a1f4d1b441e3c776a9622baf31f8634b549de75 d7253b94b6d0a949989ac182d437f595cee066ab Replit Agent <agent@replit.com> 1781520938 +0000	commit: Enhance CRM interface with modern design and improved mobile responsiveness
+d7253b94b6d0a949989ac182d437f595cee066ab f54fafb661fdceb56bc64e2bae5a2a410b0b12ba Replit Agent <agent@replit.com> 1781521154 +0000	commit: Published your App
+f54fafb661fdceb56bc64e2bae5a2a410b0b12ba b851c1904d0fe1dac083ea186a4e203224af907f Replit Agent <agent@replit.com> 1781521945 +0000	commit: Fix login redirect loop and update user credentials
+b851c1904d0fe1dac083ea186a4e203224af907f 485b2e33d9f2fad8e54b3335542f2a6a5182d06c Replit Agent <agent@replit.com> 1781522307 +0000	commit: Add a login button and improve navigation for user access
+485b2e33d9f2fad8e54b3335542f2a6a5182d06c b3bbf503987760a596a608f9903a03ba3fc1aaa5 Replit Agent <agent@replit.com> 1781523783 +0000	commit: Published your App
+b3bbf503987760a596a608f9903a03ba3fc1aaa5 56d4aa4052bda62370082b0a6de1377580241051 Replit Agent <agent@replit.com> 1781529947 +0000	commit: Add ability for staff to edit existing user accounts
+56d4aa4052bda62370082b0a6de1377580241051 b7d6e9dc7cc99ac81e0707e5991b5cd9dddcabce Replit Agent <agent@replit.com> 1781616952 +0000	commit: Fix error that occurs when viewing user information
+b7d6e9dc7cc99ac81e0707e5991b5cd9dddcabce d07b6c42fae4f13c41b357aaf8c62e003300400d Replit Agent <agent@replit.com> 1781617188 +0000	commit: Add a full image gallery slideshow and inquiry sidebar to project details
+d07b6c42fae4f13c41b357aaf8c62e003300400d 3123a4f18ada6bc2ecacc647d3fa5982a3854593 Replit Agent <agent@replit.com> 1781618665 +0000	commit: Add secret trigger to access admin area via logo and keyboard shortcut
+3123a4f18ada6bc2ecacc647d3fa5982a3854593 d3761fb2cafa3e5ce5394c3cf477f80a33929f84 Replit Agent <agent@replit.com> 1781714650 +0000	commit: Update user profile to allow image uploads and improve readability
+d3761fb2cafa3e5ce5394c3cf477f80a33929f84 f80004a66c756dfdeb176594b0382959497225a7 Replit Agent <agent@replit.com> 1782051480 +0000	commit: Published your App
+f80004a66c756dfdeb176594b0382959497225a7 8e2b70abd656a5cb7bdd68c54d4122f3f7f86260 Replit Agent <agent@replit.com> 1782139665 +0000	commit: Visual edit
+8e2b70abd656a5cb7bdd68c54d4122f3f7f86260 bba64dae4517b1b21668e2252efeabe278103839 Replit Agent <agent@replit.com> 1782148630 +0000	commit: Visual edit
+bba64dae4517b1b21668e2252efeabe278103839 496352dcc5dc8989cfef7d17aaaf5dd4067b308a Replit Agent <agent@replit.com> 1782148887 +0000	commit: Visual edit

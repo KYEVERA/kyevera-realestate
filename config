@@ -1,0 +1,21 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "gitsafe-backup"]
+	url = git://gitsafe:5418/backup.git
+	fetch = +refs/heads/*:refs/remotes/gitsafe-backup/*
+	lfsurl = http://gitsafe:5419
+[lfs "http://gitsafe:5419"]
+	locksverify = false
+[remote "subrepl-3toxnv3b"]
+	url = git+ssh://git@ssh.picard.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-3toxnv3b/*
+	lfsurl = ssh://git@ssh.picard.replit.dev/home/runner/workspace
+[lfs]
+	repositoryformatversion = 0
+[remote "subrepl-v7s34jgp"]
+	url = git+ssh://git@ssh.picard.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-v7s34jgp/*
+	lfsurl = ssh://git@ssh.picard.replit.dev/home/runner/workspace

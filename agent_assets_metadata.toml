@@ -1,0 +1,26 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "dkqcRPKOFXIDfAZ2mMrIL"
+uri = "file://artifacts/keyvera/src/assets/hero-interior.jpg"
+type = "image"
+title = "Luxury modern interior living room with dark tones and gold accents"
+
+[[outputs]]
+id = "i3f1zI6CksQoIzDWoIXmK"
+uri = "file://artifacts/keyvera/src/assets/hero-exterior.jpg"
+type = "image"
+title = "Ultra luxury modern mansion exterior at night with warm lighting"
+
+[[outputs]]
+id = "rXkI337qvfkEr9LKGuCMp"
+uri = "file://artifacts/keyvera/src/assets/owner.jpg"
+type = "image"
+title = "Professional corporate business man in suit luxury office"
+
+[[outputs]]
+id = "f6ikFMO_IRDMMdroUFDm3"
+uri = "file://artifacts/keyvera/src/assets/ceo.jpg"
+type = "image"
+title = "Professional corporate business woman in luxury office"
